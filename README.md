@@ -1,0 +1,2 @@
+# testing
+manipal global
